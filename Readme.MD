@@ -1,7 +1,7 @@
 
 # Validador de CPF
 
-Projeto feito para usuário validar uma tarefa.
+Projeto feito para usuário validar uma cpf.
 
 ## ✨ Demonstração    
 Veja abaixo um gif do projeto.</br>
